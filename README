@@ -1,0 +1,10 @@
+This is a blog webiste skeleton.
+Developed with Node.js, Express.js, EJS, MongoDB and Mongoose.
+The result of "The Complete 2020 Web Development Bootcamp" practicing.
+It features database connection to store blogposts.
+TO DO:
+-> At the moment database is local, migration to the MongoDB Atlas service needs to be done.
+-> Storing and displaying time of creation of all the posts
+-> Upgraded CSS of the website for personalized looks
+-> Audio link from the LautFM or other platform
+-> Bug fixes (???)
